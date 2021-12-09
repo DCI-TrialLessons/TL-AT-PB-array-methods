@@ -1,4 +1,4 @@
-# Map, Filter, Reduce
+# Map & Filter
 
 
 #### 1. Increment by 1
